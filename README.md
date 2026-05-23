@@ -1,7 +1,12 @@
 # ANFIS Hybrid Facial Emotion & Stress Analyzer
 ### Streamlit Demo App · Soft Computing Project
 
-**Tim:** Isya · Ica · Awa  
+**Tim:** 
+| Nama | NPM |
+|-------|-----------|
+| Siti Aisyah Nurdyanti | 140810230015 |
+| Clarisya Adeline | 140810230017 |
+| Nazwa Nashatasya | 140810230019 |
 **Dataset:** FER2013 (Kaggle) — 35.887 gambar wajah grayscale 48×48 px
 
 ---
